@@ -5,9 +5,6 @@
   <!-- repo size -->
   <img src="https://img.shields.io/github/repo-size/Pleiterson/jogo-da-velha-dio?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/jogo-da-velha-dio?style=social" alt="Último commit">
-  <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/jogo-da-velha-dio?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
